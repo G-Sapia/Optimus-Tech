@@ -1,0 +1,52 @@
+.descricao {
+    text-align: center;
+    margin: 7em;
+}
+
+.descricao__subtitulo {
+    color: var(--vermelho);
+    font-weight: 600;
+}
+
+.descricao__titulo {
+    color: var(--cor-fonte-titulo);
+    font-weight: 600;
+    font-size: 48px;
+    margin: 0.5em 0 1em 0;
+}
+
+.descricao__texto {
+    font-size: 20px;
+    margin: 0 10em;
+}
+
+.container__resultados {
+    margin: 0 5em;
+}
+
+.lista-resultados {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.lista-resultados__item {
+    padding: 0 1em;
+}
+
+.lista-resultados__numeros {
+    font-size: 60px;
+    font-weight: 600;
+    color: var(--vermelho);
+}
+
+.lista-resultados__subtitulo {
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--cor-fonte-titulo);
+    padding: 0.5em 0;
+}
+
+.lista-resultados__descricao {
+    line-height: 24px;
+}

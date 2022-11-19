@@ -1,0 +1,32 @@
+.depoimento {
+    background-color: var(--vermelho-claro);
+    padding: 3em 1em;
+    margin: 4em 5em;
+    text-align: center;
+    border-radius: 16px;
+}
+
+.depoimento__titulo {
+    color: var(--vermelho);
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.depoimento__texto {
+    color: var(--cor-fonte-titulo);
+    font-weight: 500;
+    font-size: 36px;
+    padding: 0.5em 0;
+}
+.colaboradora__imagem {
+    padding: 0.5em 0;
+}
+.nome__colaboradora {
+    font-weight: 500;
+    color: var(--cor-fonte-titulo);
+    padding: 0.5em 0;
+}
+
+.profissão__colaboradora {
+    font-size: 14px;
+}

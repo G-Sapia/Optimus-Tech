@@ -1,0 +1,74 @@
+.vagas {
+    margin-bottom: 5em;
+}
+.container__vagas {
+    text-align: center;
+    margin: 10em 0 3em 0;
+}
+
+.vagas__subtitulo {
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--vermelho);
+    background-color: var(--vermelho-claro);
+    margin: 0 auto;
+    padding: 0.5em 0;
+    width: 10%;
+    border-radius: 16px
+}
+
+.vagas__titulo {
+    font-size: 36px;
+    font-weight: 600;
+    color: var(--cor-fonte-titulo);
+    padding: 0.5em;
+}
+
+.vagas__texto {
+    font-size: 20px;
+    margin-bottom: 3em;
+}
+
+.lista-vagas__titulo {
+    margin: 1.5em 16em;
+    font-size: 20px;
+    font-weight: 500;
+    color: var(--cor-fonte-titulo);
+}
+.lista-vagas__item{
+    margin: 1em 21.5em;
+    border: 1px solid #EAECF0;
+    border-radius: 16px;
+    padding: 0.5em 0 0.5em 0.5em;
+}
+
+.lista-vagas__link {
+    text-decoration: none;
+}
+
+.lista-vagas__link--titulo {
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--cor-fonte-titulo);
+}
+
+.lista-vagas__link--titulo {
+    padding: 0.5em 0 0 1em;
+}
+.container__vagas-descricao {
+    display: flex;
+    flex-wrap: wrap;
+    color: var(--cor-fonte-texto);
+    margin: 1em;
+}
+
+.jornada {
+    padding: 1em 1em 0 0
+}
+.salario {
+    padding-top: 17px;
+}
+
+.lista-vagas__titulo-dev {
+
+}

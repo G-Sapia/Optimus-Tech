@@ -1,0 +1,37 @@
+.cabecalho {
+    display: flex;
+    justify-content: space-between;
+    margin: 1.5em 6em;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+
+}
+
+.menu__opções {
+    display: flex;   
+}
+
+.lista-menu {
+    top: 100%;
+    width: 40vw;
+    margin: 0 5em;
+}
+
+.lista-menu__item {
+    display: inline-block;    
+}
+
+.lista-menu__link {
+    color: var(--cor-fonte-texto);
+    text-decoration: none;
+    padding: 1em 1em;
+}
+.lista-menu__cadastro {
+    margin: 0 2em;
+    color: var(--cor-de-fundo);
+    background: var(--vermelho);
+    border-radius: 8px;
+}
